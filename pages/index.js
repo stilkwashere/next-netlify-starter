@@ -11,10 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="yo mista white" />
         <p className="description">
-          Get started by mista white <code>pages/index.js</code>
+          we need to cook
         </p>
+    
       </main>
 
       <Footer />

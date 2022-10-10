@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="YO MISTA WHITE" />
+        <Header title="Welcome to my app!" />
         <p className="description">
-          COOL SITE FOR OBJECT SHOW PROTOTYPE</code>
+          Get started by mista white <code>pages/index.js</code>
         </p>
       </main>
 
